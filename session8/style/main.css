@@ -1,0 +1,14 @@
+h1{
+    margin-bottom:80px;
+}
+
+div{
+    width:500px;
+    height:500px;
+    background-color:dodgerblue;
+    border-radius:50%;
+}
+.spinn{
+padding:10px 20px;
+font-size:30px;
+}
